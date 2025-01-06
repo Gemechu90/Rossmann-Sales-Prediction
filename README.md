@@ -53,7 +53,7 @@ rossmann-pharmaceuticals-sales-forecast/
 
 2. Create a virtual environment (optional but recommended):
    ```
-   python -m venv venv
+   python -m venv venv4
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
